@@ -1,0 +1,10 @@
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\bin\Debug\PR#6.2.exe.config
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\bin\Debug\PR#6.2.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\bin\Debug\PR#6.2.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR#6.2.csproj.AssemblyReference.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR_6._2.Properties.Resources.resources
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR#6.2.csproj.GenerateResource.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR#6.2.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR#6.2.exe
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR#6.2.pdb
+C:\Users\Irina\Desktop\Работы по Ломовой Л.А\Разработка КИС\PR#6.2\obj\Debug\PR_6._2.Greenhouse.resources
